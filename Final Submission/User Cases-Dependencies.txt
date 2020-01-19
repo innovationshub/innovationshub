@@ -1,0 +1,17 @@
+Roles of the Idea are:
+----------------------------------------
+1.	Helper: Can access in remote area for security and help.	    
+2.	Stations :
+•	Police Station: Helps to decrease the crime rate.
+•	Fire Station: Quick control over fire thus can save many lives.
+•	Hospital: a) Decrement in Death rate.
+b) Quick help to pregnant women and injured children or men.
+•	Government Centre: Provide the basic details ensuring the women beneficiary.
+3. Government: Helps to track the records and promotes the women empowerment (remotes areas too).
+
+Dependencies:
+--------------------------------------------------------
+1.	Government: Installation of electricity poles and wires with the connection through all helping stations (Permission required from government).
+2.	Access through Government Centre (For any help or query).
+3.	Volunteer’s requirement for spreading knowledge about the same (The first step toward change is awareness. The second step is acceptance). 
+
